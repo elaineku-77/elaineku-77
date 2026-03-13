@@ -32,10 +32,8 @@ I am seeking guidance and insights on advanced software frameworks, system archi
 
 _____________________________________________________________________________________________________________________________
 
-📸 My Photo:
-I’m a small eater but a big traveler — I may not eat much, but I love exploring new places and cultures!
-
-🐰 My Lovely Rabbit:
+📸 My Photo & My Lovely Rabbit 🐰 :<br>
+I’m a small eater but a big traveler — I may not eat much, but I love exploring new places and cultures!<br>
 My adorable rabbit keeps me company while I study and code, reminding me to stay patient and enjoy the little moments in life!
 
 ![My Image](https://github.com/elaineku-77/elaineku-77/blob/c807238b4ca0a1dfdeca1994aed3ac2265a736b0/MyPic.jpg)
