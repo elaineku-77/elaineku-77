@@ -31,3 +31,10 @@ I love turning complex tech ideas into real applications, but when I'm not codin
 
 💡 “Technology should not only be powerful, but meaningful — creating solutions that make life better.”
 
+📸 My Photo:
+I’m a small eater but a big traveler — I may not eat much, but I love exploring new places and cultures!
+
+![My Image](https://github.com/elaineku-77/elaineku-77/blob/e3478583f973b5c36dac2821346ff2fb16f34c43/Myphoto.jpg)
+
+🐰 My Rabbit:
+My adorable rabbit keeps me company while I study and code, reminding me to stay patient and enjoy the little moments in life!
