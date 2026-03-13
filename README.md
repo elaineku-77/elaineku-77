@@ -35,9 +35,8 @@ ________________________________________________________________________________
 📸 My Photo:
 I’m a small eater but a big traveler — I may not eat much, but I love exploring new places and cultures!
 
-![My Image](https://github.com/elaineku-77/elaineku-77/blob/e3478583f973b5c36dac2821346ff2fb16f34c43/Myphoto.jpg)
-
 🐰 My Lovely Rabbit:
 My adorable rabbit keeps me company while I study and code, reminding me to stay patient and enjoy the little moments in life!
 
-![My Image](https://github.com/elaineku-77/elaineku-77/blob/f30feffe55a403356fb6315b073bbc84bf6d74f2/Myrabbit.jpg)
+![My Image](https://github.com/elaineku-77/elaineku-77/blob/c807238b4ca0a1dfdeca1994aed3ac2265a736b0/MyPic.jpg)
+
