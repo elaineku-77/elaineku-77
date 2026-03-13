@@ -24,8 +24,7 @@ I am seeking guidance and insights on advanced software frameworks, system archi
 📱 Mobile App Development <br>
 🌐 IoT-based systems <br>
 
-⚡ Fun fact:<br>
-I love turning complex tech ideas into real applications, but when I'm not coding, I enjoy exploring new places around the world!
+⚡ Fun fact: I love turning complex tech ideas into real applications, but when I'm not coding, I enjoy exploring new places around the world!
 
 📫 How to reach me: <br>
 📧 Email: 25091591@siswa.um.edu.my <br>
