@@ -1,6 +1,7 @@
 💡 “Technology should not only be powerful, but meaningful — creating solutions that make life better.”
 
 **👩‍💻 About Me**
+
 Hi there! I'm Ku Yin Ee and you can call me Elaine, a Master of Computer Science (Applied Computing) student at the University of Malaya with a strong passion for building technology that solves real-world problems.
 
 🎓 I previously completed my Bachelor of Computer Science specializing in Cloud Computing. My journey in tech started with curiosity about how digital systems can improve people's lives and it has grown into a deep interest in cloud computing, intelligent systems and modern software development frameworks. I love to transform ideas into practical solutions — whether it's developing mobile applications, cloud-based systems or AI-powered tools. I enjoy building technology that solves real-world problems and improves people's lives.
