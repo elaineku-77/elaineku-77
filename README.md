@@ -1,6 +1,6 @@
 💡 “Technology should not only be powerful, but meaningful — creating solutions that make life better.”
 
-**👩‍💻 About Me**
+**👩‍💻 About Me**<br>
 
 Hi there! I'm Ku Yin Ee and you can call me Elaine, a Master of Computer Science (Applied Computing) student at the University of Malaya with a strong passion for building technology that solves real-world problems.
 
@@ -41,4 +41,4 @@ I’m a small eater but a big traveler — I may not eat much, but I love explor
 🐰 My Lovely Rabbit:
 My adorable rabbit keeps me company while I study and code, reminding me to stay patient and enjoy the little moments in life!
 
-![My Image](https://github.com/elaineku-77/elaineku-77/blob/09677770d38af20a95fa64086f4adfe1670d6872/Myrabbit.jpeg)
+![My Image](https://github.com/elaineku-77/elaineku-77/blob/f30feffe55a403356fb6315b073bbc84bf6d74f2/Myrabbit.jpg)
