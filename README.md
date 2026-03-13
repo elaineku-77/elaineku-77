@@ -1,5 +1,6 @@
-**👩‍💻 About Me**
+💡 “Technology should not only be powerful, but meaningful — creating solutions that make life better.”
 
+**👩‍💻 About Me**
 Hi there! I'm Ku Yin Ee and you can call me Elaine, a Master of Computer Science (Applied Computing) student at the University of Malaya with a strong passion for building technology that solves real-world problems.
 
 🎓 I previously completed my Bachelor of Computer Science specializing in Cloud Computing. My journey in tech started with curiosity about how digital systems can improve people's lives and it has grown into a deep interest in cloud computing, intelligent systems and modern software development frameworks. I love to transform ideas into practical solutions — whether it's developing mobile applications, cloud-based systems or AI-powered tools. I enjoy building technology that solves real-world problems and improves people's lives.
@@ -29,12 +30,14 @@ I love turning complex tech ideas into real applications, but when I'm not codin
 📧 Email: 25091591@siswa.um.edu.my 
 🌐 GitHub: https://github.com/elaineku-77 
 
-💡 “Technology should not only be powerful, but meaningful — creating solutions that make life better.”
+_____________________________________________________________________________________________________________________________
 
 📸 My Photo:
 I’m a small eater but a big traveler — I may not eat much, but I love exploring new places and cultures!
 
 ![My Image](https://github.com/elaineku-77/elaineku-77/blob/e3478583f973b5c36dac2821346ff2fb16f34c43/Myphoto.jpg)
 
-🐰 My Rabbit:
+🐰 My Lovely Rabbit:
 My adorable rabbit keeps me company while I study and code, reminding me to stay patient and enjoy the little moments in life!
+
+![My Image](https://github.com/elaineku-77/elaineku-77/blob/09677770d38af20a95fa64086f4adfe1670d6872/Myrabbit.jpeg)
