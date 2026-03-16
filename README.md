@@ -12,7 +12,7 @@
 <p align="center">  
 <b>😇 Ku Yin Ee (Elaine)</b> <br>
 <b>💻 Master of Computer Science (Applied Computing) Student</b> <br>
-<b>✨ University of Malaya</b> <br>
+<b>✨ Study in University of Malaya</b> <br>
 </p>
 
 🎓 I previously completed my Bachelor of Computer Science specializing in Cloud Computing. My journey in tech started with curiosity about how digital systems can improve people's lives and it has grown into a deep interest in cloud computing, intelligent systems and modern software development frameworks.
